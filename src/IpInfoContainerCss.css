@@ -1,0 +1,36 @@
+body {
+    background-color: #FFCC00;
+}
+
+.container {
+    padding-bottom: 295px;
+    border-bottom: 1px solid black;
+}
+
+.ipAddress {
+    font-weight: bold;
+    margin-top: 210px;
+    text-align: center;
+    font-size: 64px;
+    color: black;
+    font-family: sans-serif;
+
+}
+
+.ipTitle {
+    font-size: 26px;
+    margin-top: 10px;
+    margin-left: 555px;
+}
+
+.IpInfo {
+    margin-top: 100px;
+    margin-left: 0;
+}
+
+.IpInfo p {
+    font-size: 23px;
+    line-height: 4px;
+    color: black;
+    font-family: sans-serif;
+}
